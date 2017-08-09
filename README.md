@@ -1,2 +1,2 @@
 # bcdata-excerices
-Exercises for IAM PIMS Data Science orkshop
+Exercises for IAM PIMS Data Science Workshop
